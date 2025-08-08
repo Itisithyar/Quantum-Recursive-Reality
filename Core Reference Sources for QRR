@@ -1,0 +1,25 @@
+## 🧾 Core References and Empirical Sources
+
+This framework builds directly on:
+
+-  Planck Collaboration, *Cosmological Parameters* ([arXiv:1807.06209](https://arxiv.org/pdf/1807.06209.pdf))
+-  LIGO Collaboration, *GW230529 and GW150914* ([arXiv:2401.06088](https://arxiv.org/pdf/2401.06088.pdf), [arXiv:1602.03837](https://arxiv.org/pdf/1602.03837.pdf))
+-  Schutz, *A First Course in General Relativity*
+-  Birrell & Davies, *Quantum Fields in Curved Space*
+-  Breuer & Petruccione, *Theory of Open Quantum Systems*
+-  Zurek, *Decoherence and the Classical Limit* ([Rev. Mod. Phys. 2003](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.75.715))
+-  Wald, *QFT in Curved Spacetime and Black Hole Thermodynamics*
+-  Hawking, *Particle Creation by Black Holes* (1975)
+
+ See `references.bib` for full BibTeX export.
+
+New 2025 arXiv refs:
+- [2508.01854](https://arxiv.org/pdf/2508.01854)
+- [2507.20569](https://arxiv.org/pdf/2507.20569)
+- [2508.01640](https://arxiv.org/pdf/2508.01640)
+- [2508.01116](https://arxiv.org/pdf/2508.01116)
+- [2508.02463](https://arxiv.org/pdf/2508.02463)
+- [2508.02468](https://arxiv.org/pdf/2508.02468)
+- [2508.02638](https://arxiv.org/pdf/2508.02638)
+
+ Search: ["Dynamic shadow of a black hole with a self-interacting massive complex scalar"](https://arxiv.org/search/?query=Dynamic+shadow+of+a+black+hole+with+a+self-interacting+massive+complex+scalar&searchtype=all)
